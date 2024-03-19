@@ -24,6 +24,17 @@ public class Ex14 {
 			System.out.print(i);
 		}
 		
+		// continue로 구성
+//		for (int i = 1; i <= num; i++) {
+//			sum += i;
+//			System.out.print(i);
+//			if(i == num)
+//			{
+//				continue;
+//			}
+//			System.out.print("+");
+//		}
+		
 		// 합계 출력
 		System.out.println("\n합계:" + sum);
 		
